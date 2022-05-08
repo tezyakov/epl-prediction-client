@@ -42,6 +42,14 @@ export const Title  = styled.div`
   justify-content: center;
 `
 
+export const ResultContainer  = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  font-size: 18px;
+`
+
 export const Container = styled.div`
   font-family: sans-serif;
 
